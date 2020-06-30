@@ -1,4 +1,4 @@
-# rest-assured-bmt
+# rest-assured-bmt-webinar
 
 ## Running  all test classes
 * ```mvn clean test```
