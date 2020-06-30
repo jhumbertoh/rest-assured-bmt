@@ -1,5 +1,5 @@
-# rest-assured-bmt-webinar
-
+# Rest Assured BMT Webinar
+This is the rest assured api testing repository of the BMT webinar
 
 José Hurtado
 @jhumbertoh
